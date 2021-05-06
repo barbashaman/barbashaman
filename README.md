@@ -27,7 +27,7 @@
 
 <br />
 
-## 🧰 Languages and Tools:
+## 🧰 Languages:
 <p align="center">
  <img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -36,7 +36,7 @@
  <img src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png" alt="Lua" height="40" style="vertical-align:top; margin:4px">
  <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+## 🧰 Tools:
 <p align="center">
  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" alt="PyCharm" height="40" style="vertical-align:top; margin:4px">  
  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" alt="IntelliJ" height="40" style="vertical-align:top; margin:4px">
@@ -44,12 +44,12 @@
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
  </p>
- 
+ ## 🧰 Databases:
 <p align="center">
  <img src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt="Oracle" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.logolynx.com/images/logolynx/f4/f436442c17fa509c78e28aa28c76b923.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+## 🧰 OS:
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
