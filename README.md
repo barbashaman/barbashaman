@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=barbashaman&show_icons=true&theme=dracula)
   
-![barbashaman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barbashaman)
+![barbashaman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barbashaman&range=last_7_days)
  
 [barbashaman's wakatime dashboard](https://wakatime.com/dashboard)
  
