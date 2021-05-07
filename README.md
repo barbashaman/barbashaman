@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Automation Testing, A.I. development and game jamming
 </br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barbashaman&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barbashaman&show_icons=true&theme=dracula)
   
 ![barbashaman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barbashaman)
  
