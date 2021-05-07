@@ -9,8 +9,6 @@
   
 ![barbashaman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barbashaman&range=last_7_days)
  
-[barbashaman's wakatime dashboard](https://wakatime.com/dashboard)
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbashaman&theme=tokyonight)
 
 ### 📖 Languages:
