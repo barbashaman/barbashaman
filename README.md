@@ -1,9 +1,17 @@
 # 👋 Hi, I’m @barbashaman
 
-- 👀 I’m interested in Test Automation, Game Design, A.I., M.L., and Learning new Programming Languages
-- 🌱 I’m always learning new Programming Languages and design patterns and currently, I'm studying Game Design with and without Game Engines
-- 💞️ I’m looking to collaborate on Automation Testing, A.I. development, and game jamming
-</br>
+**Software Developer in Test**
+
+> I focus on building robust automation frameworks and exploring the intersection of intelligent systems and software quality.
+
+---
+
+### ⚡ Current Focus
+- 👀 **Interests:** Test Automation, A.I., M.L., and Learning new Programming Languages.
+- 🌱 **Learning:** Always mastering new Programming Languages and design patterns to improve software scalability.
+- 💞️ **Collaboration:** Looking to collaborate on Automation Testing and A.I. development projects.
+
+---
 
 ### 📖 Languages:
 <p align="left">
@@ -36,6 +44,8 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
  <img src="http://pngimg.com/uploads/android_logo/android_logo_PNG3.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+---
 
 ### 📫 How to reach me: 
 <p align="left">
