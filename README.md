@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Typing headline — https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Matheus+%E2%80%94+barbashaman;Software+Developer+in+Test;E2E+%E2%80%A2+Agentic+Test+Automation;Quality+as+a+product%2C+not+an+afterthought)](https://github.com/barbashaman)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Matheus+%E2%80%94+barbashaman;Software+Developer+in+Test;E2E+%E2%80%A2+Agentic+Test+Automation;Learning+in+the+open+%E2%80%94+maps+still+in+draft)](https://github.com/barbashaman)
 
-**I design and ship end-to-end test systems where humans set intent, agents explore paths, and pipelines keep everyone honest.**
+**I’m figuring out how end-to-end automation, human intent, and agent-assisted exploration can fit together without pretending we’ve “solved” quality — one experiment, one flaky test, and one honest retro at a time.**
 
 [![Profile views](https://komarev.com/ghpvc/?username=barbashaman&label=Profile+views&color=0d1117&style=for-the-badge)](https://github.com/barbashaman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/)
@@ -16,47 +16,52 @@
 
 ### The short version
 
-I'm an **SDET** obsessed with the boring magic: **reliable selectors**, **deterministic data**, **fast feedback**, and **tests that read like documentation**. Lately that means leaning into **agentic workflows** — LLM-assisted exploration, self-healing where it actually helps, and guardrails so automation stays **trustworthy**, not theatrical.
+I work as an **SDET** and spend most of my curiosity budget on questions that sound dull until they aren’t: **how stable is this selector really?**, **what makes this data repeatable?**, **how fast can we learn from a red build?**, **can a stranger read this test and trust it?**  
+I’m **experimenting with agentic workflows** — where LLMs might help explore or scaffold — and trying to stay skeptical about the hype: **when does it help, when does it lie, and what proof do we still owe the team?**
 
 <details>
-<summary><strong>🧪 Expand: what I mean by “agentic” (no hype, just engineering)</strong></summary>
+<summary><strong>🧪 Expand: what I’m probing when I say “agentic”</strong></summary>
 
-**Agentic** here isn’t “replace QA.” It’s **orchestration**: agents propose steps, generate scaffolding, or explore state space — while **assertions, contracts, and CI gates** stay explicit and owned by the team. I care about **traceability** (what ran, on what data, with what evidence), **flakiness budgets**, and **human-readable failure stories** so releases stay boring in the best way.
+I don’t use **agentic** to mean “hands off, the bot has it.” I’m interested in **splitting the work**: machines suggesting paths or boilerplate, humans keeping **intent, assertions, and contracts** visible.  
+Open questions on my mind: how do we keep **traceability** honest (what ran, on what data, with what evidence)? what’s a sane **flakiness budget** when models are non-deterministic? how do failures stay **legible** so we learn instead of shrug?  
+If you’ve wrestled with the same tensions, I’d love to compare notes — I’m still mapping this space.
 
 </details>
 
 <details>
-<summary><strong>🥒 Expand: my brain on Gherkin (sample scenario)</strong></summary>
+<summary><strong>🥒 Expand: Gherkin as a thinking hat (rough draft)</strong></summary>
 
 ```gherkin
-Feature: Profile README first impression
-  As a visitor
-  I want signal without noise
-  So I know if we should talk about test strategy
+Feature: Visiting this profile
+  As someone skimming GitHub
+  I want an honest sense of how someone thinks
+  So I can decide if a conversation might be useful
 
-  Scenario: The README earns a second scroll
-    Given I land on barbashaman's GitHub profile
-    When I skim the fold
-    Then I see a clear SDET niche
-      And I see how to reach out
-      And I am not attacked by 200 broken logo hotlinks
+  Scenario: Curiosity over polish
+    Given I land here with limited attention
+    When I read the fold
+    Then I get a feel for problems this person chews on
+      And I see a way to say hello
+      And nobody claims to have finished learning
 ```
 
-*If this made you smile, we’ll get along.*
+*If that tone resonates, we’ll probably have a good thread.*
 
 </details>
 
 ---
 
-### How I work (industry-shaped, battle-tested)
+### What I’m exploring (heuristics, not commandments)
 
-| Pillar | What it looks like in practice |
-|--------|--------------------------------|
-| **Shift-left** | Tests and contracts discussed with design & API shape — not bolted on after merge |
-| **E2E that scales** | Pyramid-aware: critical user journeys in full stack; everything else pushed to faster layers |
-| **Determinism** | Stable data, idempotent setup, clocks and network under control — *especially* with AI in the loop |
-| **Observability** | Traces, artifacts, and reports that answer “what broke?” and “where?” in one glance |
-| **CI as product** | Fast PR signal, clear ownership of flakes, no mystery red builds |
+These are **lenses I keep trying on** — some days they hold, some days reality argues back. I’m always happy to be shown a better frame.
+
+| Lens | Questions / experiments on my mind |
+|------|-------------------------------------|
+| **Earlier quality conversations** | Can we talk about risks and contracts while shapes are still cheap to change — without slowing discovery down? |
+| **E2E scope** | Which journeys truly need the full stack, and which problems are better solved one layer down? |
+| **Determinism vs. assistants** | Where does non-determinism belong, and where do we still need boring, repeatable proof? |
+| **Signals from failures** | Do traces and artifacts actually shorten the path from red to “we know why”? |
+| **CI as a feedback loop** | Is this pipeline helping the team learn, or just generating noise? |
 
 ---
 
@@ -78,9 +83,9 @@ Feature: Profile README first impression
 
 ---
 
-### Agentic E2E — mental model
+### Agentic E2E — a sketch I keep redrawing
 
-When tooling gets noisy, this is the picture I keep in my head:
+When I need to **untangle** intent, automation, and proof, I reach for something like this — **a draft**, not a finished architecture:
 
 ```mermaid
 flowchart LR
@@ -119,15 +124,17 @@ flowchart LR
 
 ---
 
-### Let’s build something
+### If you want to connect
 
-- **Collaboration:** automation frameworks, **E2E** strategy, **BDD** at scale, and **AI-assisted** testing *with* governance  
-- **Interests:** test automation, applied ML/AI for quality, polyglot engineering, and patterns that survive the next framework hype cycle  
+I’m **open to collaboration and conversation** on automation frameworks, **E2E** direction, **BDD** in messy real teams, and **AI-assisted** testing where governance and learning still matter.  
+I don’t have a fixed “only these topics” list — I like **spelunking** new stacks and ideas when someone brings a concrete problem.
+
+**Outside work:** test automation, how ML/AI intersects with quality, languages and patterns I haven’t tried yet, and **what actually holds up** after the blog posts age out.
 
 <div align="center">
 
-**Ping me on [LinkedIn](https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/) or [email](mailto:matheus.barbachan@gmail.com) — always happy to trade notes on quality engineering.**
+**Say hi on [LinkedIn](https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/) or [email](mailto:matheus.barbachan@gmail.com) — I’m happiest swapping questions, war stories, and half-baked theories.**
 
-<sub>README crafted for GitHub-flavored Markdown: collapsible sections, Mermaid, and stats cards. Swap themes or remove widgets anytime.</sub>
+<sub>Built with GitHub-flavored Markdown: collapsible bits, Mermaid, and third-party stat cards — tweak or rip out anything that doesn’t fit you.</sub>
 
 </div>
