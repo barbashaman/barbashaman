@@ -1,58 +1,133 @@
-# 👋 Hi, I’m @barbashaman
+<div align="center">
 
-**Software Developer in Test**
+<!-- Typing headline — https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Matheus+%E2%80%94+barbashaman;Software+Developer+in+Test;E2E+%E2%80%A2+Agentic+Test+Automation;Quality+as+a+product%2C+not+an+afterthought)](https://github.com/barbashaman)
 
-> I focus on building robust automation frameworks and exploring the intersection of intelligent systems and software quality.
+**I design and ship end-to-end test systems where humans set intent, agents explore paths, and pipelines keep everyone honest.**
 
----
+[![Profile views](https://komarev.com/ghpvc/?username=barbashaman&label=Profile+views&color=0d1117&style=for-the-badge)](https://github.com/barbashaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.barbachan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barbashaman/)
 
-### ⚡ Current Focus
-- 👀 **Interests:** Test Automation, A.I., M.L., and Learning new Programming Languages.
-- 🌱 **Learning:** Always mastering new Programming Languages and design patterns to improve software scalability.
-- 💞️ **Collaboration:** Looking to collaborate on Automation Testing and A.I. development projects.
-
----
-
-### 📖 Languages:
-<p align="left">
- <img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" height="40" style="vertical-align:top; margin:4px">
- <img src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png" alt="Lua" height="40" style="vertical-align:top; margin:4px">
- <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-### 🧰 Tools:
-<p align="left">
- <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" alt="PyCharm" height="40" style="vertical-align:top; margin:4px">  
- <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" alt="IntelliJ" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
- </p>
- 
-### 💾 Databases:
-<p align="left">
- <img src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt="Oracle" height="40" style="vertical-align:top; margin:4px">
- <img src="https://www.logolynx.com/images/logolynx/f4/f436442c17fa509c78e28aa28c76b923.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-### 💻 OS:
-<p align="left">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
- <img src="http://pngimg.com/uploads/android_logo/android_logo_PNG3.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
-</p>
+</div>
 
 ---
 
-### 📫 How to reach me: 
-<p align="left">
- <a href="https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/" target="_blank" rel="noopener noreferrer"> 
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:matheus.barbachan@gmail.com"> 
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/barbashaman/"> 
-   <img src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente4.png?resize=696%2C696&ssl=1" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
+### The short version
+
+I'm an **SDET** obsessed with the boring magic: **reliable selectors**, **deterministic data**, **fast feedback**, and **tests that read like documentation**. Lately that means leaning into **agentic workflows** — LLM-assisted exploration, self-healing where it actually helps, and guardrails so automation stays **trustworthy**, not theatrical.
+
+<details>
+<summary><strong>🧪 Expand: what I mean by “agentic” (no hype, just engineering)</strong></summary>
+
+**Agentic** here isn’t “replace QA.” It’s **orchestration**: agents propose steps, generate scaffolding, or explore state space — while **assertions, contracts, and CI gates** stay explicit and owned by the team. I care about **traceability** (what ran, on what data, with what evidence), **flakiness budgets**, and **human-readable failure stories** so releases stay boring in the best way.
+
+</details>
+
+<details>
+<summary><strong>🥒 Expand: my brain on Gherkin (sample scenario)</strong></summary>
+
+```gherkin
+Feature: Profile README first impression
+  As a visitor
+  I want signal without noise
+  So I know if we should talk about test strategy
+
+  Scenario: The README earns a second scroll
+    Given I land on barbashaman's GitHub profile
+    When I skim the fold
+    Then I see a clear SDET niche
+      And I see how to reach out
+      And I am not attacked by 200 broken logo hotlinks
+```
+
+*If this made you smile, we’ll get along.*
+
+</details>
+
+---
+
+### How I work (industry-shaped, battle-tested)
+
+| Pillar | What it looks like in practice |
+|--------|--------------------------------|
+| **Shift-left** | Tests and contracts discussed with design & API shape — not bolted on after merge |
+| **E2E that scales** | Pyramid-aware: critical user journeys in full stack; everything else pushed to faster layers |
+| **Determinism** | Stable data, idempotent setup, clocks and network under control — *especially* with AI in the loop |
+| **Observability** | Traces, artifacts, and reports that answer “what broke?” and “where?” in one glance |
+| **CI as product** | Fast PR signal, clear ownership of flakes, no mystery red builds |
+
+---
+
+### Stack & tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,nodejs,git,docker,linux,postgres,mongodb,vscode,idea,github,githubactions,gradle,maven,playwright&perline=10" alt="Languages and tools" />
 </p>
+
+<details>
+<summary><strong>🧰 Legacy stack view (same tools, icon grid)</strong></summary>
+
+**Languages:** Java · Python · JavaScript · TypeScript · C# · Lua  
+**Runtimes & platforms:** Node.js · Linux · Windows · Android-oriented testing contexts  
+**Databases:** Oracle · MongoDB  
+**Day-to-day:** PyCharm · IntelliJ · VS Code · Git · Terminal-first workflows  
+
+</details>
+
+---
+
+### Agentic E2E — mental model
+
+When tooling gets noisy, this is the picture I keep in my head:
+
+```mermaid
+flowchart LR
+  subgraph Intent["Human intent"]
+    A["User journeys + risks"]
+  end
+  subgraph Build["Automation"]
+    B["Stable fixtures"]
+    C["E2E runners"]
+    D["Agents / assistants"]
+  end
+  subgraph Proof["Proof"]
+    E["Assertions + contracts"]
+    F["CI + artifacts"]
+  end
+  A --> B
+  A --> D
+  B --> C
+  D --> C
+  C --> E
+  E --> F
+```
+
+---
+
+### GitHub pulse
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=barbashaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbashaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=barbashaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### Let’s build something
+
+- **Collaboration:** automation frameworks, **E2E** strategy, **BDD** at scale, and **AI-assisted** testing *with* governance  
+- **Interests:** test automation, applied ML/AI for quality, polyglot engineering, and patterns that survive the next framework hype cycle  
+
+<div align="center">
+
+**Ping me on [LinkedIn](https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/) or [email](mailto:matheus.barbachan@gmail.com) — always happy to trade notes on quality engineering.**
+
+<sub>README crafted for GitHub-flavored Markdown: collapsible sections, Mermaid, and stats cards. Swap themes or remove widgets anytime.</sub>
+
+</div>
