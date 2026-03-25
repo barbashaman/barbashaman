@@ -111,19 +111,6 @@ flowchart LR
 
 ---
 
-### GitHub pulse
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=barbashaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbashaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=barbashaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ### If you want to connect
 
 I’m **open to collaboration and conversation** on automation frameworks, **E2E** direction, **BDD** in messy real teams, and **AI-assisted** testing where governance and learning still matter.  
@@ -135,6 +122,6 @@ I don’t have a fixed “only these topics” list — I like **spelunking** ne
 
 **Say hi on [LinkedIn](https://www.linkedin.com/in/matheus-barbachan-e-silva-276241a1/) or [email](mailto:matheus.barbachan@gmail.com) — I’m happiest swapping questions, war stories, and half-baked theories.**
 
-<sub>Built with GitHub-flavored Markdown: collapsible bits, Mermaid, and third-party stat cards — tweak or rip out anything that doesn’t fit you.</sub>
+<sub>Built with GitHub-flavored Markdown: collapsible bits and Mermaid — tweak or rip out anything that doesn’t fit you.</sub>
 
 </div>
